@@ -1,0 +1,7 @@
+[
+  "test_HomePage.py::TestHomePage::test_search",
+  "test_Login.py::TestLogin::test_login",
+  "test_Runner.py::TestRunner::test_runner",
+  "test_login.py::TestLogin::test_login",
+  "test_login.py::test_homepage_login"
+]

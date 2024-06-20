@@ -1,0 +1,5 @@
+{
+  "test_login.py::test_homepage_login": true,
+  "test_login.py::TestLogin::test_login": true,
+  "test_Runner.py::TestRunner::test_runner": true
+}
